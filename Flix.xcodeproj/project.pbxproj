@@ -20,7 +20,6 @@
 		B19C91D9269279F300F24C10 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19C91D8269279F300F24C10 /* MoviesViewController.swift */; };
 		B1F9D9ED26939E5F007A27E5 /* MovieTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F9D9EC26939E5F007A27E5 /* MovieTableViewCell.swift */; };
 		B1F9D9F02693A692007A27E5 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = B1F9D9EF2693A692007A27E5 /* AlamofireImage */; };
-		B1F9D9F22693C0E6007A27E5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B1F9D9F12693C0E6007A27E5 /* README.md */; };
 		CC2334C4A7170B6BFA011F55 /* Pods_Flix.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C427688D7691038FD7E8FFD0 /* Pods_Flix.framework */; };
 /* End PBXBuildFile section */
 
@@ -65,7 +64,6 @@
 		B19C91CC2692723300F24C10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B19C91D8269279F300F24C10 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		B1F9D9EC26939E5F007A27E5 /* MovieTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieTableViewCell.swift; sourceTree = "<group>"; };
-		B1F9D9F12693C0E6007A27E5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B94AD43634D5C62CD820E586 /* Pods-Flix-FlixUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flix-FlixUITests.release.xcconfig"; path = "Target Support Files/Pods-Flix-FlixUITests/Pods-Flix-FlixUITests.release.xcconfig"; sourceTree = "<group>"; };
 		C427688D7691038FD7E8FFD0 /* Pods_Flix.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Flix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -112,7 +110,6 @@
 		B19C919C2692723100F24C10 = {
 			isa = PBXGroup;
 			children = (
-				B1F9D9F12693C0E6007A27E5 /* README.md */,
 				B19C91A72692723100F24C10 /* Flix */,
 				B19C91BE2692723300F24C10 /* FlixTests */,
 				B19C91C92692723300F24C10 /* FlixUITests */,
@@ -295,7 +292,6 @@
 			files = (
 				B19C91B52692723300F24C10 /* LaunchScreen.storyboard in Resources */,
 				B19C91B22692723300F24C10 /* Assets.xcassets in Resources */,
-				B1F9D9F22693C0E6007A27E5 /* README.md in Resources */,
 				B19C91B02692723100F24C10 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
