@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src='https://github.com/EdiDEngineer/Flix/blob/main/ezgif.com-gif-maker%20(1).gif' title='Video Walkthrough2' width='250' alt='Video Walkthrough2' />
+<img src='https://github.com/EdiDEngineer/Flix/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202021-07-17%20at%2001.15.06.gif' title='Video Walkthrough2' width='250' alt='Video Walkthrough2' />
 
 ### Notes
 Describe any challenges encountered while building the app.
